@@ -1,0 +1,55 @@
+page-configuracion{
+    $toast-md-background : #32db64!important;
+    img{
+        border-radius: 50%;
+        border: 1px solid #039be5;
+        box-sizing: border-box;
+        height: 10rem;
+        width: 10rem;
+        display: inline-block;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
+    
+    .nombreInput{
+        display: inline-block;
+        width: 55%;
+    }
+
+    .headerConfiguration{
+        border-bottom: 1px solid #d1d1d1;
+        margin: 1%;
+    }
+    ion-spinner * {
+        width: 100px;
+        height: 100px;
+        stroke: #444;
+        fill: #222;
+      }
+
+    ion-spinner{
+        position: absolute;
+        left: 40%;
+        top: 40%;
+        transform: translate(-40%, -40%);
+    }
+
+    main{
+        text-align: center;
+    }
+
+    .toastSave{
+        background: #32db64!important;
+        margin: 2%;
+    }
+
+    .iconoBackground{
+        background-image: url("../assets/imgs/camara.png");
+        background-repeat: no-repeat;
+        display: inline-block;
+        background-position: bottom right;
+        width: 40%;
+    }
+}
+

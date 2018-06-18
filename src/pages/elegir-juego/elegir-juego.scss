@@ -1,0 +1,14 @@
+page-elegir-juego {
+    .juegosSpinners{
+        position: absolute;
+        left: 40%;
+        top: 40%;
+        transform: translate(-40%, -40%);
+    }
+    ion-spinner * {
+        width: 100px;
+        height: 100px;
+        stroke: #444;
+        fill: #222;
+      }
+}

@@ -1,0 +1,20 @@
+page-modalpreguntas {
+    h3{
+        text-align: center;
+    }
+    .botonSeleccionado{
+        background-color: #FF9800;
+    }
+    .respuestaCorrecta{
+        background-color: #4CAF50;
+    }
+    .respuestaIncorrecta{
+        background-color: #f44336;
+    }
+    .centrar{
+        text-align: center;
+    }
+    .margenTop{
+        margin-top: 40px;
+    }
+}

@@ -1,0 +1,18 @@
+page-juego {
+    #map {
+        height: 100%;
+    }
+    .scroll-content{
+        overflow-y: auto;
+    }
+    .puntos{
+        border: none;
+        margin-top: 3px;
+    }
+    .margenFab{
+        margin: 0 0 13px 3px;
+    }
+}
+.alert-head{
+    overflow-y: scroll !important; 
+}

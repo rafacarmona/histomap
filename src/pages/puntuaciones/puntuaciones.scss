@@ -1,0 +1,33 @@
+page-puntuaciones {
+    .puntuacionSpinners{
+        position: absolute;
+        left: 40%;
+        top: 40%;
+        transform: translate(-40%, -40%);
+    }
+    ion-spinner * {
+        width: 100px;
+        height: 100px;
+        stroke: #444;
+        fill: #222;
+    }
+
+    img{
+        border-radius: 50%;
+        border: 1px solid #039be5;
+        box-sizing: border-box;
+        height: 7rem;
+        width: 7rem;
+        display: inline-block;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        display: inline-block;
+        vertical-align: middle;
+    }
+    span{
+        display: inline-block;
+        vertical-align: middle;
+        padding-left: 3px;
+    }
+}

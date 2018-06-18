@@ -1,0 +1,20 @@
+<ion-header>
+
+  <ion-navbar color="dark">
+    <ion-title>Pregunta</ion-title>
+    <ion-buttons end>
+      <button ion-button (click)="cerrarModal()">Cerrar</button>
+    </ion-buttons>
+  </ion-navbar>
+
+</ion-header>
+
+<ion-content padding>
+  <div padding id="contenedor">
+    <h3>{{tituloPregunta}}</h3>
+    <button *ngFor="let respuesta of respuestas" (click)="cambiarColorBoton(respuesta)" ion-button full class="botonRespuesta">{{respuesta}}</button>
+    <div class="centrar">
+      <button ion-button [disabled]="botonCerrar" (click)="cerrarModal()" class="margenTop" color="oran">Cerrar</button>
+    </div>   
+  </div>
+</ion-content>

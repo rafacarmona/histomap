@@ -1,0 +1,16 @@
+
+<ion-header>
+  <ion-navbar color="dark">
+    <ion-title>Elegir juego</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-spinner class="juegosSpinners"  *ngIf="juegos == null"></ion-spinner>
+  <ion-list *ngIf="juegos != null">
+    <ion-item *ngFor="let juego of juegos | async"   (click)="abrirJuego(juego.preguntas, juego.title)">
+      {{juego.title}}
+    </ion-item>
+  </ion-list>
+
+</ion-content>

@@ -1,0 +1,27 @@
+login-page {
+
+    .content{
+        background-image: url('../assets/imgs/background.jpg');
+        background-attachment: fixed;
+        background-size: cover;
+        *text-align: center;
+        button{
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);    
+        }
+    }
+    
+    ion-footer {
+        &.footer-md::before {
+            background-image: none;
+        }
+        div{
+            color:white;
+            text-align: center;
+            margin: 2%;
+        }
+    }
+    
+}

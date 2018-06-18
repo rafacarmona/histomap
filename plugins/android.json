@@ -1,0 +1,39 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.angularfirebase.histomaps"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.angularfirebase.histomaps"
+    },
+    "cordova-plugin-googleplus": {
+      "PACKAGE_NAME": "com.angularfirebase.histomaps"
+    },
+    "cordova-plugin-ionic-keyboard": {
+      "PACKAGE_NAME": "com.angularfirebase.histomaps"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "com.angularfirebase.histomaps"
+    },
+    "cordova-plugin-nativeaudio": {
+      "PACKAGE_NAME": "com.angularfirebase.histomaps"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.angularfirebase.histomaps"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.angularfirebase.histomaps"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.angularfirebase.histomaps"
+    }
+  },
+  "dependent_plugins": {}
+}

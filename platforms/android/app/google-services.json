@@ -1,0 +1,74 @@
+{
+  "project_info": {
+    "project_number": "239887585272",
+    "firebase_url": "https://histomap-e10e6.firebaseio.com",
+    "project_id": "histomap-e10e6",
+    "storage_bucket": "histomap-e10e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239887585272:android:221a79aa5f413c7b",
+        "android_client_info": {
+          "package_name": "com.angularfirebase.histomaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239887585272-urqd76pupitq44q3vpto41c3icgcm2r9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angularfirebase.histomaps",
+            "certificate_hash": "e0c14db2ea4c373c6f7da31cabab7047e00b28ac"
+          }
+        },
+        {
+          "client_id": "239887585272-i94l4anef4rvnbchtf8i4ck95lhrtb32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angularfirebase.histomaps",
+            "certificate_hash": "77c3ccc95d37544a9367905a764734704c4ea964"
+          }
+        },
+        {
+          "client_id": "239887585272-gjdm723i0nkqdthgjn2grke0sqeg1q3o.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "239887585272-gjdm723i0nkqdthgjn2grke0sqeg1q3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbXeeLapB_hTRLZ2WreqUqdCsluI0PRqo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239887585272-gjdm723i0nkqdthgjn2grke0sqeg1q3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "239887585272-tu9if2bi8aq9gpas040fapbpe9n55pls.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.angularfirebase.histomaps"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+#Sat Jun 16 23:38:30 CEST 2018
+base.0=C\:\\Users\\deivi\\Downloads\\histomaps v1.0\\histomaps\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\release\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\deivi\\Downloads\\histomaps v1.0\\histomaps\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\release\\0\\classes.dex
